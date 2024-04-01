@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<livearea style="a4" format-ver="01.01">
+	<livearea-background>
+		<image>LiveArea_BG.png</image>
+	</livearea-background>
+
+	<gate>
+		<startup-image>LiveArea_Gate.png</startup-image>
+	</gate>
+
+
+	<frame id="frame3" multi="o" autoflip="0" >
+
+		<liveitem default="on">
+			<background>LiveArea_Frame3.png</background>
+		</liveitem>
+
+	</frame>
+
+
+	<frame id="frame4" multi="o" autoflip="0" >
+
+		<liveitem default="on">
+			<background>LiveArea_Frame4.png</background>
+		</liveitem>
+
+	</frame>
+
+
+	<frame id="frame5" multi="r" autoflip="18" >
+
+		<liveitem default="on">
+			<background y="3">ber3.png</background>
+			<text y="1" word-wrap="off" word-scroll="on" origin="background" line-align="center">
+				<str size="20" bold="on" shadow="on">　VTB is developed by BenMitnicK and is a VitaShell Fork created by TheFl0W. For all support please go to the website Hack French ModConsoles.fr who wants to be a family community of Fan Consoles, HomeBrew, Hack and others.　　　　　　　　　　　　　　　　</str>
+			</text>
+			<lang>en</lang>
+			<lang>en-gb</lang>
+		</liveitem>
+
+		<liveitem>
+			<background y="3">ber3.png</background>
+			<text y="1" word-wrap="off" word-scroll="on" origin="background" line-align="center">
+				<str size="20" bold="on" shadow="on">　VTB est développé par BenMitnicK et c'est un Fork de VitaShell crée par TheFl0W. Pour tous support veuillez aller sur le site de Hack Français ModConsoles.fr qui ce veut être une communauté Familiale regroupant les Fans de Consoles, HomeBrew, Hack et autres.　　　　　　　　</str>
+			</text>
+			<lang>fr</lang>
+		</liveitem>
+
+		<liveitem>
+			<background y="3">ber3.png</background>
+			<text y="1" word-wrap="off" word-scroll="on" origin="background" line-align="center">
+				<str size="20" bold="on" shadow="on">　VTB es desarrollado por BenMitnicK y es un tenedor VitaShell creado por TheFl0W. Para obtener todo el apoyo, visite el sitio web Hack French ModConsoles.fr que quiere ser una comunidad familiar de Fan Consolas, HomeBrew, Hack y otros. 　　　　　　　　　　　　　　　　　　</str>
+			</text>
+			<lang>es</lang>
+		</liveitem>
+
+		<liveitem>
+			<background y="3">ber3.png</background>
+			<text y="1" word-wrap="off" word-scroll="on" origin="background" line-align="center">
+				<str size="20" bold="on" shadow="on">　VTB is ontwikkeld door BenMitnicK en is een VitaShell Fork gemaakt door TheFl0W. Ga voor alle ondersteuning naar de website Hack French ModConsoles.fr die een familiecommunity wil worden van Fan Consoles, HomeBrew, Hack en anderen.　　　　　　　　</str>
+			</text>
+			<lang>de</lang>
+		</liveitem>
+
+		<liveitem>
+			<background y="3">ber3.png</background>
+			<text y="1" word-wrap="off" word-scroll="on" origin="background" line-align="center">
+				<str size="20" bold="on" shadow="on">　VTB è sviluppato da BenMitnicK ed è una forcella VitaShell creata da TheFl0W. Per qualsiasi supporto, visitare il sito Web Hack French ModConsoles.fr che desidera essere una comunità familiare di Fan Consoles, HomeBrew, Hack e altri.　　　　　　　　　　　　　　</str>
+			</text>
+			<lang>it</lang>
+		</liveitem>
+
+	</frame>
+
+</livearea>
+
+
