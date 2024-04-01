@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="02.00">
+    <![CDATA[
+      <ul>
+      <li>Ajout du pic0 au lancement de l'application.</li>
+	  <li>Ajout du background image random "20 max".</li>
+	  <li>Ajout de la sélection de la langue dans les options.</li>
+	  <li>Ajout de DataBaseMenu (Joystick_Droit_Gauche pour activer le menu).</li>
+	  <li>Ajout de Vitaident (Joystick_Droit_Bas pour activer le menu).</li>
+	  <li>Ajout de ForeCast (Joystick_Droit_Droite pour activer le menu).</li>
+	  <li>Ajout de la langue des différents menu et options dans le fichier langue.</li>
+	  <li>Ajout des options de couleurs pour les différents menu.</li>
+	  <li>Ajout du crédit.</li>
+	  <li>Ajout du gestionnaire de thèmes.</li> 
+	  <li>Ajout des options à color.ini.</li>
+	  <li>Ajout de l'image noPreview et l'image du bouton carré+triangle au dossier thème.</li>
+	  <li>Ajout du fichier param.ini pour une customization a 100% du selecteur de thème.</li>
+	  <li>Ajout d'un filtre pour vos Wallpapers.</li>
+	  <li>Ajout pourcentage batterie.</li>
+	  <li>Ajout des seconde a l'heure.</li>
+	  <li>Ajout sauvegarde du CID (a la racine de ux0).</li>
+      </ul>
+    ]]>
+  </changes>
+  <changes app_ver="02.01">
+    <![CDATA[
+      <ul>
+      <li>Ajout de l'option "Espace Libre" dans le menu paramètre.</li>
+	  <li>Nouveau design pour les Tweak et le menu paramètre.</li>
+      </ul>
+    ]]>
+  </changes>
+  <changes app_ver="02.02">
+    <![CDATA[
+      <ul>
+      <li>Ajout de VitaBackup de Joel16.</li>
+	  <li>Option ux0/ur0 dans paramètre pour VitaBackup.</li>
+	  <li>Ajout de la couleur pour le sélecteur d'option dans param.ini.</li>
+	  <li>Ajout des différentes couleurs pour le nouveau tweak.</li>
+	  <li>Ajout des différente langues.</li>
+	  <li>Ajout de l'exportation/importation de la disposition des Icons du LiveArea (Kylon originale par luck).</li>
+	  <li>Les fichiers des Tweaks ont été reporté dans le répertoire de l'application pour éviter les conflits.</li>
+      </ul>
+    ]]>
+  </changes>
+  <changes app_ver="02.03">
+    <![CDATA[
+      <ul>
+      <li>Nouveau thème LiveArea.</li>
+	  <li>Nouveau thème VTB.</li>
+	  <li>Beug sur la base de donnée corrigé.</li>
+	  <li>Petit problème d’icône corrigé.</li>
+	  <li>Ajout du Manuel d'utilisation.</li>
+	  <li>Ajout d'une fonction aide avec le joystick droit droite pour (Activer/Désactiver).</li>
+	  <li>Ajout d'icon Menu pour VITAident.</li>
+	  <li>Réorganisation des répertoires.</li>
+	  <li>Fichiers langues/colors/param mis à jour.</li>
+      </ul>
+    ]]>
+  </changes>
+  <changes app_ver="02.04">
+    <![CDATA[
+      <ul>
+      <li>Ajout de la capacité des partitions (graphique) à la place de la date qui sert pas a grand chose.</li>
+	  <li>Ajout de l'espace libre directement sur l'interface "Libre/Utilisé/Max" (Option supprimé).</li>
+	  <li>Ajout de la possibilité de modifier l'emplacement des icons et textes des menus help.</li>
+	  <li>Fichiers colors/param mis à jour.</li>
+      </ul>
+    ]]>
+  </changes>
+  <changes app_ver="02.05">
+    <![CDATA[
+      <ul>
+      <li>VTB est maintenant l'application principale.</li>
+	  <li>Nouveau thème pour VTB et les Tweaks.</li>
+	  <li>VitaShell est maintenant un Tweak.</li>
+	  <li>Bug corrigé sur le Sélecteur de thème.</li>
+	  <li>Changement sur l'affichage des infos des partitions c'est maintenant (Utilisé/Libre/Max).</li>
+	  <li>Nouveau sélecteur de menu.</li>
+	  <li>Update du Manuel d'utilisation.</li>
+	  <li>Update des fichiers Colors/Param/Langues.</li>
+      </ul>
+    ]]>
+  </changes>
+  <changes app_ver="02.06">
+    <![CDATA[
+      <ul>
+      <li>Réorganisation des répertoires pour plus de propreté.</li>
+	  <li>VTB utilise maintenant le random wallpaper toujours au Maximum de 20 à mettre dans le répertoire vtb (wallpaper.png, wallpaper2.png) etc....</li>
+	  <li>VitaShell utilise maintenant 1 seul background image (bg_browser.png) mais conserve le filtre filter_wallpaper.png à mettre dans le répertoire vitashell de vôtre thème.</li>
+	  <li>Le fichier param.ini a été déplacé dans le répertoire VTB.</li>
+	  <li>Les couleurs ont été séparés en 2 fichiers pour plus de clarté. colors.ini de VitaShell dans son répertoire respectif et colors.ini de VTB et ses Tweaks dans le répertoire vtb.</li>
+	  <li>Beug corrigé du sélecteur de thème il devrait fonctionner correctement maintenant.</li>
+	  <li>Ajout des couleurs manquantes de VitaShell dans colors.ini.</li>
+	  <li>Ajout du preview.png du thème choisi en SplashScreen avec effet de fondu.</li>
+	  <li>Ajout des changelog dans le répertoire changeinfo du répertoire racine VitaTweakBox.</li>
+	  <li>Ajout du Tweak Livre avec 20 livres Max et 100 images Max/Livres (Les archives ne sont pas encore supporté).</li>
+	  <li>Les thèmes VTB sont au Max de 16 ce qui est suffisant.</li>
+	  <li>Ajout du support Tactile.</li>
+	  <li>Manuel mis à jour.</li>
+      </ul>
+    ]]>
+  </changes>
+  <changes app_ver="02.07">
+    <![CDATA[
+      <ul>
+      <li>Mise a jour VitaShell 1.98 et ajout des derniers COMMITS.</li>
+      </ul>
+    ]]>
+  </changes>
+  <changes app_ver="02.08">
+    <![CDATA[
+      <ul>
+      <li>Mise a jour VitaShell 2.0 (3.71/3.72).</li>
+      </ul>
+    ]]>
+  </changes>
+  <changes app_ver="02.09">
+    <![CDATA[
+      <ul>
+      <li>Mise a jour VitaShell 2.02.</li>
+      </ul>
+    ]]>
+  </changes>
+</changeinfo>
