@@ -22,7 +22,7 @@ add_executable(user
   main.c
 )
 
-#add_dependencies(user vitashell_kernel_stubs)
+add_dependencies(user vitashell_kernel_stubs)
 
 target_link_libraries(user
   ${CMAKE_CURRENT_BINARY_DIR}/../kernel/libVitaShellKernel2_stub.a
