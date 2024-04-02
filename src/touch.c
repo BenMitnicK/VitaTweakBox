@@ -12,6 +12,7 @@
 
 static TouchStateData* touchFrontState;
 static TouchStateData* touchBackState;
+SceTouchData touch;
 
 SceInt TouchFront_Init(SceVoid) 
 {
