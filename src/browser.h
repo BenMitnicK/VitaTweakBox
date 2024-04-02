@@ -87,7 +87,7 @@ void setFocusOnFilename(const char *name);
 
 void refreshMarkList();
 void refreshCopyList();
-char focus_name[MAX_NAME_LENGTH];
+extern char focus_name[MAX_NAME_LENGTH];
 
 int refreshFileList();
 
