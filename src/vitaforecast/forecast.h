@@ -40,7 +40,7 @@ void ForeCastMenuCtrl();
 void ForeCastAgree();
 void ForeCastDisagree();
 
-ForeCastMenu ForeCast_menu;
+extern ForeCastMenu ForeCast_menu;
 int sceLocationInit();
 int sceLocationTerm();
 
