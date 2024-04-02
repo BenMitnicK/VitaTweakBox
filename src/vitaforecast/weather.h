@@ -1,9 +1,9 @@
 #ifndef _WEATHER_H_
 #define _WEATHER_H_
 
-char zip[10];
+extern char zip[10];
 
-int CorF;
+extern int CorF;
 
 void initWeatherData();
 int getWeatherZip();
