@@ -11,6 +11,8 @@
 
 
 static char patch[MAX_PATH_LENGTH];
+char zip[10] = "";
+int CorF;
 
 void initWeatherData()
 {
