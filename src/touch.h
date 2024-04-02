@@ -16,7 +16,7 @@
 #define touchInRect(x1, x2, y1, y2)  ((TouchFront_CheckIsPressed()) && (TouchFront_GetX() >= (x1) && TouchFront_GetX() <= (x2) && TouchFront_GetY() >= (y1) && TouchFront_GetY() <= (y2)))
 #define touchInRect2(x1, x2, y1, y2)  ((TouchBack_CheckIsPressed()) && (TouchBack_GetX() >= (x1) && TouchBack_GetX() <= (x2) && TouchBack_GetY() >= (y1) && TouchBack_GetY() <= (y2)))
 
-SceTouchData touch;
+extern SceTouchData touch;
 //SceTouchData touchBack;
 
 typedef struct 
