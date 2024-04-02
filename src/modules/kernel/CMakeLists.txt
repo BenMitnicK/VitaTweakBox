@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 2.8...3.25.1)
 
 if(NOT DEFINED CMAKE_TOOLCHAIN_FILE)
   if(DEFINED ENV{VITASDK})
