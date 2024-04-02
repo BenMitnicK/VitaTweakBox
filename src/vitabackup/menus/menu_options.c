@@ -1,6 +1,7 @@
 #include "../vitabackup.h"
 
 const char * configFile = "storage_location = %d\n";
+SceBool storage_location;
 	
 SceInt Options_SaveConfig(SceBool storage_location)
 {
