@@ -1,3 +1,9 @@
+##### Change Log V2.10 #####
+
+Update to the latest version of vitasdk (2024-02-05)
+Update VitaShell PSM/PSP Refresh (LiEnby)
+Update VitaShell (3.61/3.63/3.74) Firmware (RealYoti)
+
 ##### Change Log V2.09 #####
 
 Update VitaShell 2.02
