@@ -123,4 +123,13 @@
       </ul>
     ]]>
   </changes>
+  <changes app_ver="02.10">
+    <![CDATA[
+      <ul>
+      <li>Update to the latest version of vitasdk (2024-02-05).</li>
+      <li>Update VitaShell PSM/PSP Refresh (LiEnby).</li>
+      <li>Update VitaShell (3.61/3.63/3.74) Firmware (RealYoti).</li>
+      </ul>
+    ]]>
+  </changes>
 </changeinfo>
