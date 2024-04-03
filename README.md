@@ -100,6 +100,12 @@
 
     Update VitaShell 2.02
 
+**V2.10**
+
+    Update to the latest version of vitasdk (2024-02-05)
+    Update VitaShell PSM/PSP Refresh (LiEnby)
+    Update VitaShell (3.61/3.63/3.74) Firmware (RealYoti)
+
 # Screenshots
 
 [Youtube](https://www.youtube.com/watch?v=HcL0LSUcY5s&t=5s)
