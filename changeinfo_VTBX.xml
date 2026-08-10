@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo titleid="VTBX00001">
+  <changes app_ver="03.00"><![CDATA[
+Complete redesign of the interface and visual style.
+Improvements and visual adaptation of the integrated VitaShell.
+Integration and modification of Plugin Manager.
+Integration and modification of Theme Manager.
+New and improved built-in file viewers.
+Improved book reader with support for PDF, MOBI, AZW and compressed archives.
+Improved Music Player with AT9 and AT3 support.
+Added customizable background music.
+HomebrewUpdate integration with status detection.
+Redesigned installation and progress dialogs.
+Added English and French translations for the new features.
+Fixed several longstanding bugs and improved overall stability.
+General improvements to navigation and interface consistency.
+Compiled with the latest VitaSDK.
+
+Update VitaShell  Qr scanner refactor by (isage)
+Update VitaShell  OTG Support by (LiEnby)
+  ]]></changes>
+</changeinfo>

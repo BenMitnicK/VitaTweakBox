@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<titlepatch status="alive" titleid="VTBX00001">
+  <tag name="VTBX00001_T0" signoff="true">
+    <package version="03.00"
+             size="47406531"
+             sha1sum="dba070da6e24c6f0d4db0076f32b583bd89a99d3"
+             url="https://github.com/BenMitnicK/VitaTweakBox/releases/download/3.0/VTBX00001-03.00-PE.vpk"
+             psp2_system_ver="56623104"
+             content_id="EP9000-VTBX00001_00-VITATWEAKBOX0001">
+      <paramsfo>
+        <title>VitaTweakBox</title>
+      </paramsfo>
+      <changeinfo url="https://raw.githubusercontent.com/BenMitnicK/VitaTweakBox/master/changeinfo_VTBX.xml"/>
+    </package>
+  </tag>
+</titlepatch>
