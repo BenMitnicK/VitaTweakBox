@@ -2,8 +2,8 @@
 <titlepatch status="alive" titleid="VTBX00001">
   <tag name="VTBX00001_T0" signoff="true">
     <package version="03.00"
-             size="47406531"
-             sha1sum="dba070da6e24c6f0d4db0076f32b583bd89a99d3"
+             size="44955608"
+             sha1sum="ed6697581df2ac0396553d13460ca8dee13f3659"
              url="https://github.com/BenMitnicK/VitaTweakBox/releases/download/3.0/VitaTweakBox.vpk"
              psp2_system_ver="56623104"
              content_id="EP9000-VTBX00001_00-VITATWEAKBOX0001">
