@@ -4,8 +4,6 @@
 
 **EN:** VitaTweakBox is an all-in-one PSVita toolbox featuring system tweaks, theme, plugin management, backups, file transfers, multimedia tools, weather information, and more all through a modern, unified interface.
 
-<img width="960" height="544" alt="preview" src="https://github.com/user-attachments/assets/74d91814-5c7b-4335-8f53-673f76cfa055" />
-
 # Changelog
 
 **V3.00**
@@ -129,5 +127,9 @@
     Add Save CID (In root of ux0)
 
 # Screenshots
+
+<img width="960" height="544" alt="preview" src="https://github.com/user-attachments/assets/74d91814-5c7b-4335-8f53-673f76cfa055" />
+
+# Video
 
 [Youtube](https://www.youtube.com/watch?v=210UWyES8tg)
